@@ -1,0 +1,722 @@
+{
+	"folder_history":
+	[
+		"/D/MyProjects/PythonApp/TORGUA",
+		"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day21/django_orm_example",
+		"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day19/django_orm_example",
+		"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day18/my_project",
+		"/D/MyProjects/PythonApp/djTORGUA",
+		"/D/MyProjects/PythonApp/Media-Player",
+		"/D/MyProjects/PythonApp/djTORGUA/torgua"
+	],
+	"last_version": 3176,
+	"last_window_id": 16,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"if",
+						"ifmain\tif __name__ == '__main__'"
+					],
+					[
+						"s",
+						"setup\tfunction"
+					],
+					[
+						"max",
+						"max_length"
+					],
+					[
+						"ST",
+						"STATIC_URL"
+					],
+					[
+						"context",
+						"context\tparam"
+					],
+					[
+						"BAse",
+						"BASE_DIR\tstatement"
+					],
+					[
+						"w",
+						"w_handle\tstatement"
+					],
+					[
+						"mus",
+						"music\tstatement"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Anaconda Python Builder",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 157.0,
+				"history":
+				[
+					"socket",
+					"socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 51781))",
+					"import socket",
+					"exit()",
+					"quit()",
+					"pip",
+					"pip = 2",
+					"pip",
+					"python"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/MyProjects/PythonApp/TORGUA/single.php",
+				"/C/Users/matth/Desktop/index (2).html",
+				"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day21/django_orm_example/config/secret.cfg",
+				"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day21/django_orm_example/django_orm_example/settings/components/common.py",
+				"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day21/django_orm_example/pizza/tests.py",
+				"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day21/django_orm_example/pizza/views.py",
+				"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day21/django_orm_example/pizza/models.py",
+				"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day21/django_orm_example/pizza/admin.py",
+				"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day21/django_orm_example/pizza/apps.py",
+				"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day21/django_orm_example/django_orm_example/settings/components/__init__.py",
+				"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day21/django_orm_example/models.py",
+				"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day21/django_orm_example/db.sqlite3",
+				"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day21/django_orm_example/bower.json",
+				"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day19/django_orm_example/pizza/templates/pizza/index.html",
+				"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day19/django_orm_example/pizza/templates/pizza/stats.html",
+				"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day19/django_orm_example/pizza/templates/pizza/view.html",
+				"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day19/django_orm_example/pizza/templates/pizza/create.html",
+				"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day19/django_orm_example/pizza/models.py",
+				"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day19/django_orm_example/pizza/views.py",
+				"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day21/django_orm_example/дз.txt",
+				"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day21/django_orm_example/manage.py",
+				"/D/MyProjects/PythonApp/djTORGUA/torgua/mainApp/migrations/__init__.py",
+				"/D/MyProjects/PythonApp/djTORGUA/torgua/torgua/settings.py",
+				"/C/Users/matth/Desktop/sys.py",
+				"/D/MyProjects/PythonApp/djTORGUA/torgua/templates/mainApp/post.html",
+				"/D/MyProjects/PythonApp/djTORGUA/torgua/templates/mainApp/index.html",
+				"/D/MyProjects/PythonApp/djTORGUA/torgua/templates/mainApp/wrapper.html",
+				"/D/MyProjects/PythonApp/Stealer/app.py",
+				"/D/MyProjects/PythonApp/djTORGUA/torgua/templates",
+				"/D/MyProjects/PythonApp/djTORGUA/torgua/manage.py",
+				"/D/MyProjects/PythonApp/djTORGUA/torgua/requirements.txt",
+				"/D/MyProjects/PythonApp/Media-Player/svp/tests/tests.py",
+				"/D/MyProjects/PythonApp/Media-Player/app.py",
+				"/D/MyProjects/PythonApp/Media-Player/svp/svp/__init__.py",
+				"/D/MyProjects/PythonApp/Media-Player/svp/svp/display.py",
+				"/D/MyProjects/PythonApp/Media-Player/svp/svp/player.py",
+				"/D/MyProjects/PythonApp/Media-Player/svp/tests/test_.py",
+				"/D/MyProjects/PythonApp/Media-Player/Python-Media-Player/Python Media Player Version 0.0.1/Tools/player.py",
+				"/D/MyProjects/PythonApp/Media-Player/Python-Media-Player/Python Media Player Version 0.0.1/Tools/Gui.py",
+				"/D/MyProjects/PythonApp/Media-Player/index.html",
+				"/D/MyProjects/PythonApp/Media-Player/Python-Media-Player/Python Media Player Version 0.0.1/GUI.py",
+				"/D/MyProjects/PythonApp/Media-Player/el_py/package.json",
+				"/D/MyProjects/PythonApp/Media-Player/el_py/hello.py",
+				"/D/MyProjects/PythonApp/Media-Player/el_py/index.html",
+				"/D/MyProjects/PythonApp/Media-Player/el_py/main.js",
+				"/D/MyProjects/PythonApp/Media-Player/electron_with_python/index.html",
+				"/D/MyProjects/PythonApp/Media-Player/electron_with_python/package.json",
+				"/D/MyProjects/PythonApp/Media-Player/electron_with_python/main.js",
+				"/D/MyProjects/PythonApp/Media-Player/electron_with_python/package-lock.json",
+				"/D/MyProjects/PythonApp/Media-Player/pyplayer/python-app-with-electron-gui/gui/main.js",
+				"/D/MyProjects/PythonApp/Media-Player/pyplayer/python-app-with-electron-gui/gui/weather.html",
+				"/D/MyProjects/PythonApp/Media-Player/pyplayer/python-app-with-electron-gui/gui/renderer.js",
+				"/D/MyProjects/PythonApp/Media-Player/pyplayer/python-app-with-electron-gui/engine/weather_engine.py",
+				"/D/MyProjects/PythonApp/Media-Player/pyplayer/python-app-with-electron-gui/gui/face.html",
+				"/D/MyProjects/PythonApp/Media-Player/pyplayer/python-app-with-electron-gui/gui/linkers/face.js",
+				"/D/MyProjects/PythonApp/Media-Player/pyplayer/python-app-with-electron-gui/gui/gui.html",
+				"/D/MyProjects/PythonApp/Media-Player/pyplayer/main.py",
+				"/D/MyProjects/PythonApp/Media-Player/pyplayer/my_gui.py",
+				"/D/MyProjects/PythonApp/Media-Player/pyplayer/LICENSE.txt",
+				"/D/MyProjects/PythonApp/djTORGUA/torgua/mainApp/templates/mainApp/single.html",
+				"/D/MyProjects/PythonApp/djTORGUA/torgua/mainApp/templates/mainApp/categories.html",
+				"/D/MyProjects/PythonApp/djTORGUA/torgua/mainApp/templates/mainApp/index.html",
+				"/D/MyProjects/PythonApp/djTORGUA/torgua/mainApp/templates/mainApp/post.html",
+				"/D/MyProjects/PythonApp/djTORGUA/torgua/mainApp/templates/mainApp/includes/header.php",
+				"/D/MyProjects/PythonApp/djTORGUA/torgua/mainApp/templates/mainApp/includes/wrapper.html",
+				"/D/MyProjects/PythonApp/djTORGUA/torgua/mainApp/templates/mainApp/about.html",
+				"/D/MyProjects/PythonApp/djTORGUA/torgua/mainApp/admin.py",
+				"/C/Users/matth/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+				"/C/Users/matth/AppData/Roaming/Sublime Text 3/Packages/Anaconda/README.md",
+				"/D/MyProjects/PythonApp/djTORGUA/torgua/mainApp/views.py",
+				"/D/MyProjects/PythonApp/djTORGUA/torgua/.gitignore",
+				"/C/Users/matth/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/matth/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Default (Windows).sublime-keymap",
+				"/C/Users/matth/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+				"/D/MyProjects/PythonApp/djTORGUA/metro-placeholder/index.html"
+			],
+			"find":
+			{
+				"height": 40.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 56.0
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 238.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"packe",
+						"Package Control Messages"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 287.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 623.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"if",
+						"ifmain\tif __name__ == '__main__'"
+					],
+					[
+						"s",
+						"setup\tfunction"
+					],
+					[
+						"max",
+						"max_length"
+					],
+					[
+						"ST",
+						"STATIC_URL"
+					],
+					[
+						"context",
+						"context\tparam"
+					],
+					[
+						"BAse",
+						"BASE_DIR\tstatement"
+					],
+					[
+						"w",
+						"w_handle\tstatement"
+					],
+					[
+						"mus",
+						"music\tstatement"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Program Files/Sublime Text 3/changelog.txt",
+					"settings":
+					{
+						"buffer_size": 47997,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Anaconda Python Builder",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 157.0,
+				"history":
+				[
+					"socket",
+					"socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 51781))",
+					"import socket",
+					"exit()",
+					"quit()",
+					"pip",
+					"pip = 2",
+					"pip",
+					"python"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/matth/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/matth/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/matth/AppData/Roaming/Sublime Text 3/Installed Packages/Package Control.sublime-package",
+				"/C/Users/matth/AppData/Roaming/Sublime Text 3/Installed Packages/0_package_control_loader.sublime-package",
+				"/D/MyProjects/PythonApp/TORGUA/single.php",
+				"/C/Users/matth/Desktop/index (2).html",
+				"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day21/django_orm_example/config/secret.cfg",
+				"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day21/django_orm_example/django_orm_example/settings/components/common.py",
+				"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day21/django_orm_example/pizza/tests.py",
+				"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day21/django_orm_example/pizza/views.py",
+				"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day21/django_orm_example/pizza/models.py",
+				"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day21/django_orm_example/pizza/admin.py",
+				"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day21/django_orm_example/pizza/apps.py",
+				"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day21/django_orm_example/django_orm_example/settings/components/__init__.py",
+				"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day21/django_orm_example/models.py",
+				"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day21/django_orm_example/db.sqlite3",
+				"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day21/django_orm_example/bower.json",
+				"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day19/django_orm_example/pizza/templates/pizza/index.html",
+				"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day19/django_orm_example/pizza/templates/pizza/stats.html",
+				"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day19/django_orm_example/pizza/templates/pizza/view.html",
+				"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day19/django_orm_example/pizza/templates/pizza/create.html",
+				"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day19/django_orm_example/pizza/models.py",
+				"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day19/django_orm_example/pizza/views.py",
+				"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day21/django_orm_example/дз.txt",
+				"/C/Users/matth/Desktop/courses/[tceh] Учимся программировать на Python за 3 месяца/Материалы к урокам/Day21/django_orm_example/manage.py",
+				"/D/MyProjects/PythonApp/djTORGUA/torgua/mainApp/migrations/__init__.py",
+				"/D/MyProjects/PythonApp/djTORGUA/torgua/torgua/settings.py",
+				"/C/Users/matth/Desktop/sys.py",
+				"/D/MyProjects/PythonApp/djTORGUA/torgua/templates/mainApp/post.html",
+				"/D/MyProjects/PythonApp/djTORGUA/torgua/templates/mainApp/index.html",
+				"/D/MyProjects/PythonApp/djTORGUA/torgua/templates/mainApp/wrapper.html",
+				"/D/MyProjects/PythonApp/Stealer/app.py",
+				"/D/MyProjects/PythonApp/djTORGUA/torgua/templates",
+				"/D/MyProjects/PythonApp/djTORGUA/torgua/manage.py",
+				"/D/MyProjects/PythonApp/djTORGUA/torgua/requirements.txt",
+				"/D/MyProjects/PythonApp/Media-Player/svp/tests/tests.py",
+				"/D/MyProjects/PythonApp/Media-Player/app.py",
+				"/D/MyProjects/PythonApp/Media-Player/svp/svp/__init__.py",
+				"/D/MyProjects/PythonApp/Media-Player/svp/svp/display.py",
+				"/D/MyProjects/PythonApp/Media-Player/svp/svp/player.py",
+				"/D/MyProjects/PythonApp/Media-Player/svp/tests/test_.py",
+				"/D/MyProjects/PythonApp/Media-Player/Python-Media-Player/Python Media Player Version 0.0.1/Tools/player.py",
+				"/D/MyProjects/PythonApp/Media-Player/Python-Media-Player/Python Media Player Version 0.0.1/Tools/Gui.py",
+				"/D/MyProjects/PythonApp/Media-Player/index.html",
+				"/D/MyProjects/PythonApp/Media-Player/Python-Media-Player/Python Media Player Version 0.0.1/GUI.py",
+				"/D/MyProjects/PythonApp/Media-Player/el_py/package.json",
+				"/D/MyProjects/PythonApp/Media-Player/el_py/hello.py",
+				"/D/MyProjects/PythonApp/Media-Player/el_py/index.html",
+				"/D/MyProjects/PythonApp/Media-Player/el_py/main.js",
+				"/D/MyProjects/PythonApp/Media-Player/electron_with_python/index.html",
+				"/D/MyProjects/PythonApp/Media-Player/electron_with_python/package.json",
+				"/D/MyProjects/PythonApp/Media-Player/electron_with_python/main.js",
+				"/D/MyProjects/PythonApp/Media-Player/electron_with_python/package-lock.json",
+				"/D/MyProjects/PythonApp/Media-Player/pyplayer/python-app-with-electron-gui/gui/main.js",
+				"/D/MyProjects/PythonApp/Media-Player/pyplayer/python-app-with-electron-gui/gui/weather.html",
+				"/D/MyProjects/PythonApp/Media-Player/pyplayer/python-app-with-electron-gui/gui/renderer.js",
+				"/D/MyProjects/PythonApp/Media-Player/pyplayer/python-app-with-electron-gui/engine/weather_engine.py",
+				"/D/MyProjects/PythonApp/Media-Player/pyplayer/python-app-with-electron-gui/gui/face.html",
+				"/D/MyProjects/PythonApp/Media-Player/pyplayer/python-app-with-electron-gui/gui/linkers/face.js",
+				"/D/MyProjects/PythonApp/Media-Player/pyplayer/python-app-with-electron-gui/gui/gui.html",
+				"/D/MyProjects/PythonApp/Media-Player/pyplayer/main.py",
+				"/D/MyProjects/PythonApp/Media-Player/pyplayer/my_gui.py",
+				"/D/MyProjects/PythonApp/Media-Player/pyplayer/LICENSE.txt",
+				"/D/MyProjects/PythonApp/djTORGUA/torgua/mainApp/templates/mainApp/single.html",
+				"/D/MyProjects/PythonApp/djTORGUA/torgua/mainApp/templates/mainApp/categories.html",
+				"/D/MyProjects/PythonApp/djTORGUA/torgua/mainApp/templates/mainApp/index.html",
+				"/D/MyProjects/PythonApp/djTORGUA/torgua/mainApp/templates/mainApp/post.html",
+				"/D/MyProjects/PythonApp/djTORGUA/torgua/mainApp/templates/mainApp/includes/header.php",
+				"/D/MyProjects/PythonApp/djTORGUA/torgua/mainApp/templates/mainApp/includes/wrapper.html",
+				"/D/MyProjects/PythonApp/djTORGUA/torgua/mainApp/templates/mainApp/about.html",
+				"/D/MyProjects/PythonApp/djTORGUA/torgua/mainApp/admin.py",
+				"/C/Users/matth/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+				"/C/Users/matth/AppData/Roaming/Sublime Text 3/Packages/Anaconda/README.md",
+				"/D/MyProjects/PythonApp/djTORGUA/torgua/mainApp/views.py",
+				"/D/MyProjects/PythonApp/djTORGUA/torgua/.gitignore",
+				"/C/Users/matth/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/matth/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Default (Windows).sublime-keymap",
+				"/C/Users/matth/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+				"/D/MyProjects/PythonApp/djTORGUA/metro-placeholder/index.html"
+			],
+			"find":
+			{
+				"height": 40.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Program Files/Sublime Text 3/changelog.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 47997,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": false,
+									"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 56.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.963396778917,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 238.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,640,497,101,1136",
+			"project": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"packe",
+						"Package Control Messages"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 1,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 287.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 16,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
