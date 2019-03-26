@@ -1,0 +1,1 @@
+/home/dimi_gor/.oh-my-zsh/custom/themes/sobole/sobole.zsh-theme
